@@ -57,7 +57,7 @@ class LogConverterGUI:
         browse_btn.grid(row=0, column=2)
         
         # Drag and drop area
-        self.drop_frame = tk.Frame(file_frame, bg="lightgray", relief="dashed", bd=2, height=60)
+        self.drop_frame = tk.Frame(file_frame, bg="lightgray", relief="ridge", bd=2, height=60)
         self.drop_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(10, 0))
         self.drop_frame.columnconfigure(0, weight=1)
         self.drop_frame.grid_propagate(False)  # Maintain fixed height
