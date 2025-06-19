@@ -1,0 +1,674 @@
+**2024/09/27_Stardancer_Log**
+
+-Line 1- ==episode One: Legacies==
+-Line 2- -Setting- Narrator: "Captain Riens. Bene a long time.
+-Line 3- -Setting- Narrator: "I trust you still know how to fly these things?" Smirks lightly
+-Line 4- -Setting- Narrator: "Well i know how to fix it if I crash it.
+-Line 5- -Setting- Narrator: *he smiled
+-Line 6- -Setting- Narrator: "Shuttle crash isn't on the list of things to do today.
+-Line 7- -Setting- Narrator: "is it ever.
+-Line 8- -Setting- Narrator: "I'd like to see the ship before we board Riens.
+-Line 9- -Setting- Narrator: "Thats the plan.
+-Line 10- -Setting- Narrator: "Since i know you hate transporters.
+-Line 11- -Setting- Narrator: "A fly by would be good.
+-Line 12- -Setting- Narrator: "You get to certin age, you worry about your things little more.
+-Line 13- -Setting- Narrator: "Hows that new core on the Ayanami working out. Heard you saved her from retirement Again.
+-Line 14- -Setting- Narrator: "Starfleet has tough time telling Admiral Honda no. However, while the core is impressive, I am more impressed with the documation that came wtih it.
+-Line 15- -Setting- Narrator: "It made the install quite easy.
+-Line 16- -Setting- Narrator: "Well your just lucky i attached someone to record nallie installing one similiar.
+-Line 17- -Setting- Narrator: "Or it would have just been "plug it in
+-Line 18- -Setting- Narrator: SHall we
+-Line 19- -Setting- Narrator: *jax boarded the shuttle to wait for the title card
+-Line 20- -Setting- Narrator: -= STAR TREK: STARDANCER =-
+-Line 21- -Setting- Narrator: "Oh... There it is.
+-Line 22- -Setting- Narrator: *Looks out the window as the ship started to get larger in the view.
+-Line 23- -Setting- Narrator: ((A picture of it would be nice)
+-Line 24- -Setting- Narrator: ** At the famed shipyards of Utopia Planitia the U.S.S. Stardancer prepares to take her first leap upon the star-scattered stage.  Held fast by her moorings she lays patiently as the crew that will..
+-Line 25- -Setting- Narrator: be calling her home moves diligently about within her halls, meticulously combing over every possible point of failure between them and the eternal void.  In the shuttle bay the cadets have been..
+-Line 26- -Setting- Narrator: lined up for inspection, knowing only that there would be a couple of VIPs aboard prior to departure… *
+-Line 27- -Scene B- Captain Marcus Blaine: [Alemyn]  *The golden-skinned woman stood with arms folded near the cadets.*  "Any minute now...
+-Line 28- -Setting- Narrator: **The UP Shuttle started it approach to the Stardancer. Jax maneuver the shuttle slwoly around the ship, its luna inspired flame donned with a fresh purple livery. The lights of the shuttle
+-Line 29- -Setting- Narrator: illuminating her name plate and registry NCC-91587-B
+-Line 30- -Setting- Narrator: *he took the shuttle past the stardrive and maneveuvered it towards the aft main shuttlebay
+-Line 31- -Scene B- Erys: *stares straight ahead, unmoving save for a faint sign of breathing. Droplets of sweat bead and drip down her uncharacteristically serious face.
+-Line 32- -Setting- Narrator: *Watched and observed the ship as she stood looking outwards of the shuttle window.
+-Line 33- -Setting- Narrator: "Her and the Rendino started in the scrap yard. Fully functioning hulls they just didn't build em shifting the resources to Achilles during the last part of the war.
+-Line 34- -Setting- Narrator: "Figured liz would paint it purple.
+-Line 35- -Scene B- Captain Marcus Blaine: [Zeke]  *He murmured at Erys,* "You're a bit humid over there.
+-Line 36- -Setting- Narrator: *he chuckled
+-Line 37- -Scene B- Riens: *maeve stood waiting
+-Line 38- -Setting- Narrator: "I recall the Achilles Class. Tough ships.
+-Line 39- -Setting- Narrator: "They made quite the diffrence.
+-Line 40- -Scene B- Bethany M Scarlett: stood with her fellow cadets waiting for the inspection
+-Line 41- -Setting- Narrator: =^= Stardancer flight this the Tucker. Requesting permission to land.
+-Line 42- -Scene B- Thelonious: "I must've misplaced my other uniforms..." *Thelonious mumbled.
+-Line 43- -Scene B- Erys: *responds to Zeke without moving more than her lips* Shut it, Zeke
+-Line 44- -Setting- Narrator: [Zhal] =^= Tucker you are clear for landing, tractor lock established ease off controls. We got you in primary trap
+-Line 45- -Setting- Narrator: *jax let the auto landing land them
+-Line 46- -Scene B- Captain Marcus Blaine: [Zeke]  *He smirked over at her before facing forward again.
+-Line 47- -Setting- Narrator: *the shuttle entered the shuttle bay forcefield and came to a landing on the pad
+-Line 48- -Setting- Narrator: "Shall we admiral.
+-Line 49- -Setting- Narrator: "You can still fly Riens.
+-Line 50- -Scene B- Captain Marcus Blaine: [Alemyn]  *She stared at Hedwik as she arrived, then snapped to attention when the shuttle set down before them.
+-Line 51- -Setting- Narrator: "Somethings are like riding a bike.
+-Line 52- -Setting- Narrator: *Smirks* After you
+-Line 53- -Scene B- Riens: *the shuttles door open and jax stepped out
+-Line 54- -Scene B- Captain Marcus Blaine: *And just then, Blaine came strolling in.
+-Line 55- -Scene B- Zarina Dyrellia: stays at attention, resisting the urge to gawk like a tourist.-
+-Line 56- -Scene B- Hedwik: *Does not meet the golden lady's gaze, staring straight ahead as she's at attention.
+-Line 57- -Setting- Narrator: "Oh ... Don't i know she said mostly to herself" *Sighing slighlty as she stepped out of the shuttle hatch and on tohe deck of the landing bay. Then she glacned around for the reception detail
+-Line 58- -Scene B- Cadet Antony: *Standing at attention, not even glancing to the other cadets, a slightly worried look in her eye
+-Line 59- -Scene B- Riens: [CHief] Admiral Khitomer Alliance Boarding. *the cheif greeted them.
+-Line 60- -Scene B- Cadet Antony: *Tavi relaxes, just a touch.
+-Line 61- -Scene B- Riens: *jax allowed nyoko to overtake him and fell in
+-Line 62- -Scene B- Captain Marcus Blaine: "Admirals, welcome aboard," *Blaine offered as he stepped toward them.
+-Line 63- -Scene B- Bethany M Scarlett: stands at attention looking strait ahead, curious and wanting to look, but resists the urg
+-Line 64- -Setting- Narrator: "Admiral Khitomer. Always pleasure." She nodded once. "Permission to come aboard.
+-Line 65- -Scene B- Captain Marcus Blaine: [Marlin]  *He seemed to be buzzing with excitement.
+-Line 66- -Scene B- Captain Marcus Blaine: [Marla]  *She nudged her larger twin.
+-Line 67- -Scene B- Captain Marcus Blaine: "Granted, ma'am," *He nodded.*  "It's a fine ship Admiral Riens has whipped up for us.
+-Line 68- -Scene B- Riens: Spend that much time with the Khitomer fleet old habits right
+-Line 69- -Scene B- Cadet Antony: *Tavi remained as a board, but an almost happy expression, excitement matching other cadets beneath the surface.
+-Line 70- -Scene B- Riens: "Can't take all the credit. and im just the Taxi Driver
+-Line 71- -Scene B- Erys: *sweats even more. Clearly not excited at all
+-Line 72- -Scene B- Nyoko: "Ah. I'm sorry, I must be having senior moment. yes, yes, Captain.
+-Line 73- -Scene B- Nyoko: "Thank you for having me a board.
+-Line 74- -Scene B- Nyoko: *She'll glance to Jax and smile.* "Riens here has long history of putting the 22nd Mobile's ships back together. I expect you will be very pleased with the work.
+-Line 75- -Scene B- Captain Marcus Blaine: "I knew what you meant, and that's all that matters, right?"  *He chuckled.*  "And I always have been, ma'am.  Shall we, then?
+-Line 76- -Scene B- Nyoko: "Absoultely, and worry captain, I'll not accidently sit in the captain's chair." Shoots a teasing wink
+-Line 77- -Scene B- Riens: *maeve glanced down the rows of cadets
+-Line 78- -Scene B- Riens: "She'll do it on purpose.
+-Line 79- -Scene B- Riens: *jax added
+-Line 80- -Scene B- Nyoko: "Heh. Captain I am interested in meeting the crew members. I have read bit about them.
+-Line 81- -Scene B- Riens: "Lots of legacy.
+-Line 82- -Scene B- Cadet Antony: *Tavi, eyes forward, fixed on the wall, but ears perked for every breath and sylable.
+-Line 83- -Scene B- Captain Marcus Blaine: "I'm sure the seat will only be improved by a bit of admiral's luck, regardless."  *He chuckled and turned toward the cadets.*  "As am I, ma'am.  Let's see what the academy is producing these days.
+-Line 84- -Scene B- Hedwik: *Hedwik just stared forwards.
+-Line 85- -Scene B- Nyoko: *Stepped over to the line up f the crew and candets.
+-Line 86- -Scene B- Captain Marcus Blaine: *He looked to Maeve.*  "All cadets present and accounted for, Ensign?
+-Line 87- -Scene B- Riens: [Maeve] All that could be spared sir. Commander Luka requisitioned cadet Xantor to assist with last minute preperations
+-Line 88- -Scene B- Captain Marcus Blaine: "Very good."  *He nodded to her and then looked back to Nyoko.*  "All yours, ma'am.
+-Line 89- -Scene B- Riens: *maeve tolena blaine stepped back into formation, the half romulan standing in parde wait
+-Line 90- -Scene B- Nyoko: *nodded once and smiled looking back at the crew and in her much older and eldarly officer. She took a moment too reguard the crew members. "I would very much like introductions. Personnal report
+-Line 91- -Scene B- Nyoko: are always so cold.
+-Line 92- -Scene B- Nyoko: "I have known quite of bit of space travel in my time, so It s important that I have the opperuntiy to greet you, and wish you well on your new assignment.
+-Line 93- -Scene B- Nyoko: "I am Admiral Honda, Yes, for many of you who might have heared. The orgional founding member of the 22nd Mobile, back in 2409.
+-Line 94- -Scene B- Zarina Dyrellia: --Zarina takes a moment to glance down at the top of the admiral's head, she looks a bit surprised.-
+-Line 95- -Scene B- Captain Marcus Blaine: *He gave the cadets a look that 'subtly' conveyed the message to humor the old lady.
+-Line 96- -Scene B- Nyoko: "Who do we have here." She would step over to Bethany Scarlett
+-Line 97- -Scene B- Cadet Antony: *Blaine is dead in her line of sight, she got that message.
+-Line 98- -Scene B- Captain Marcus Blaine: [Zeke]  *He edged as far away from Erys as their position in line would allow.
+-Line 99- -Scene B- Bethany M Scarlett: "Bethany Moss Scarlett, M'am, seventh generation Starfleet
+-Line 100- -Scene B- Nyoko: "I see. Long line of officers and your position?
+-Line 101- -Scene B- Nyoko: "Ahem the role you hope to obtain once you graduate.
+-Line 102- -Scene B- Bethany M Scarlett: "Aye M'am, long line Great grandfather was an admiral, I hope to be a science officer with speciality in computer sciences
+-Line 103- -Scene B- Nyoko: "I always liked the science officers, mine always enabled my crazy ideas." Grins. She moved on to Zarina
+-Line 104- -Scene B- Bethany M Scarlett: could not help but smile even while standing at attention and looking strait ahead
+-Line 105- -Scene B- Zarina Dyrellia: --stays at attention.-- "$th year cadet Zarina Olivia Dyrellia ma'am.
+-Line 106- -Scene B- Zarina Dyrellia: **4th yea
+-Line 107- -Scene B- Nyoko: *Has quite happy though as she recalled Rindino* "Cadet. Your asperations?
+-Line 108- -Scene B- Zarina Dyrellia: "On a personal note admiral, my mother served aboard the Ayanami 40 years ago.
+-Line 109- -Scene B- Nyoko: *She stopped moment searched her memory.* "Tpang?
+-Line 110- -Scene B- Zarina Dyrellia: "yes ma'am.
+-Line 111- -Scene B- Captain Marcus Blaine: *Blaine smirked.*  "A fine captain.  A little fierce, even.
+-Line 112- -Scene B- Zarina Dyrellia: "i aspire to be a security officer when i graduate ma'am. To answer your question.
+-Line 113- -Scene B- Nyoko: "She's quite the legend too." Smiles recalling T'pang. "Your asperations cadet Dyrellia.
+-Line 114- -Scene B- Zarina Dyrellia: "i aspire to be a security officer when i graduate ma'am. To answer your question.
+-Line 115- -Scene B- Nyoko: "Excellent." She moved along. *The vibe she put out was far more smooth, and delcate, prehaps even balanced woman that came with her age. As if she had mastered a certin zen that she struggled with i
+-Line 116- -Scene B- Nyoko: years when she was young officer. She moved on to the next cadet
+-Line 117- -Scene B- Thelonious: "Thelonious Mixman, 4th Year Cadet.
+-Line 118- -Scene B- Thelonious: "Kind of the first in my family to join Starfleet, as far as I know...
+-Line 119- -Scene B- Nyoko: "Candet Mixman. Welcome to the fleet. 22nd Mobile is one of the longest standing fleets in Starfleet. You have a remarkable opperunity.
+-Line 120- -Scene B- Thelonious: "Thank you, ma'am.
+-Line 121- -Scene B- Nyoko: "I look forward to seeing what you contribute. What was your field of interest?
+-Line 122- -Scene B- Riens: *jax followed along the inspection playing the silent jdugy type
+-Line 123- -Scene B- Thelonious: "I'm part of the science division.
+-Line 124- -Scene B- Nyoko: *Nodded once.* Do us proud cadet. *Nyoko moved on to the next officer.
+-Line 125- -Scene B- Cadet Antony: *Tavi speaks clearly and confidently* "Ma'am, Tavi Antony, Ma'am...  4th year academy cadet.  I hope for command training ma'am, by way of tactical.
+-Line 126- -Scene B- Captain Marcus Blaine: [Alemyn]  *She snapped a murderous look at Zeke, who promptly slinked back into a properly spaced formation.
+-Line 127- -Scene B- Riens: Your father will be pleased, your mother won't.
+-Line 128- -Scene B- Riens: *jax gave Tavi a wink
+-Line 129- -Scene B- Cadet Antony: *Cringes inwardly
+-Line 130- -Scene B- Captain Marcus Blaine: "Can't please everyone, Cadet."  *He chuckled.
+-Line 131- -Scene B- Nyoko: "A path I know quite well Antony. I started out as helmsmen of the USS Boston, back when they were still using isolinnar." Grins
+-Line 132- -Scene B- Nyoko: *Moved on the next cadet and she stood before Erys and she felt like she was looking through a rift into the past. The likness was uncanny.
+-Line 133- -Scene B- Erys: *stares straight ahead, not meeting Nyoko's gaze* Erys Maliah, fourth year cadet, engineering
+-Line 134- -Scene B- Cadet Antony: *Tavi's face relaxes visibly when Nyoko moves on to the next person in line.
+-Line 135- -Scene B- Nyoko: *Will tilt her head until eye contact is made.* "There we go." she offered warmer expression
+-Line 136- -Scene B- Erys: *stares into Nyoko's eyes.  A hint of a smirk plays over her face* Ma'am
+-Line 137- -Scene B- Nyoko: *Starship always needs an engineer, isn't hat right Riens?
+-Line 138- -Scene B- Riens: "Best job.
+-Line 139- -Scene B- Erys: Yes cap- Admiral
+-Line 140- -Scene B- Nyoko: "Captain, ADmiral, it all blends together when you hit 70.
+-Line 141- -Scene B- Riens: *the two remaining cadets in formation were in front of her
+-Line 142- -Scene B- Nyoko: *Continues on down the line towards the next cadet.
+-Line 143- -Scene B- Nyoko: *Stops infront of Kodor
+-Line 144- -Scene B- Cadet Vrajen Kodor: *Vrajen spoke clearly* Cadet Vrajen Kodor ma'am. The focus is going into Operations.
+-Line 145- 
+-Line 146- -Scene B- Nyoko: *Takes notice but doesn't say anything.
+-Line 147- -Scene B- Zarina Dyrellia: --remains at attention, staring ahead.-
+-Line 148- -Scene B- Captain Marcus Blaine: *He nodded to Jax and Nyoko.*  "Right this way.  Ensign Tolena, please see that the cadets are shown to the science lab, I believe Doctor Bessley wished to speak with them.
+-Line 149- -Scene B- Riens: [Maeve] Aye sir. CADETS fall out
+-Line 150- -Scene B- Cadet Antony: *Visibly relaxing
+-Line 151- -Scene B- Captain Marcus Blaine: *He turned and headed for the lift to the bridge.
+-Line 152- -Scene B- Riens: *jax headed out* Turbolifts this way
+-Line 153- -Scene B- Zarina Dyrellia: ---relaxes from standing at attention, she looks to see if the admiral was gone.-
+-Line 154- -Scene B- Cadet Antony: *waiting for the chance, she checks her padd for her assigned location.
+-Line 155- -Scene B- Thelonious: *He eases up,* "Not really used to standing up that way for too long.
+-Line 156- -Scene B- Nyoko: *Follows the officers to the turbolift
+-Line 157- -Scene B- Captain Marcus Blaine: [Zeke]  "Jeez... my neck hurts.
+-Line 158- -Scene B- Bethany M Scarlett: relaxes her stance, stretching a bi
+-Line 159- -Scene B- Cadet Antony: "Erys... what's up with you and the admiral... it seemed like you knew her pesonally.
+-Line 160- -Scene A- Riens: *riding the turbolift
+-Line 161- -Scene B- Zarina Dyrellia: "I really thought the admiral would be taller.
+-Line 162- -Scene B- Cadet Vrajen Kodor: Same here..
+-Line 163- -Scene A- Riens: [
+-Line 164- -Scene B- Thelonious: "We're gonna have to do this often, right?
+-Line 165- -Scene B- Bethany M Scarlett: "You are just tall
+-Line 166- -Scene A- Riens: [Blake] Admiral on the bridge
+-Line 167- -Scene B- Erys: *glances at Antony as she stretches out the kinks* My aunt served under her
+-Line 168- -Scene B- Hedwik: *Relaxes her stance, not completely, and looks around the shuttle bay, trying to find a reflective surface.
+-Line 169- -Scene A- Riens: [Zhal] *stood at attention* Captain the bridge is yours
+-Line 170- -Scene A- Captain Marcus Blaine: "Thank you, Commander."  *He stepped down to the command pit.*  "As you can see we spared no expense on the big chair.
+-Line 171- -Scene A- Cadet Antony: [[Shay]] *Shay smiles and nods to the admiral, keeping her station.
+-Line 172- -Scene B- Thelonious: "Kinda surprising to see a lot of you having past relatives serving for Starfleet.
+-Line 173- -Scene A- Riens: "Well that particular one was pullsed from the Gigantes
+-Line 174- -Scene B- Captain Marcus Blaine: [Zeke]  "Nepo babies, you mean.
+-Line 175- -Scene C- Nyoko: tes
+-Line 176- -Scene B- Erys: I have a feeling the Captain asked for us so his daughter wouldn't be singled out
+-Line 177- -Scene D- Nyoko: tes
+-Line 178- -Scene B- Cadet Antony: "Starfleet has a lot.
+-Line 179- -Setting- Narrator: (Which one we in)
+-Line 180- -Scene B- Hedwik: *Finds a well-polished surface and looks into it, sighing in relief. She had makeup on for once, and it seemed like she had spent entirely too much time trying to make it look understated.
+-Line 181- -Scene B- Riens: *maeve would lead the cadets to the science lab
+-Line 182- -Scene B- Thelonious: "Yep..
+-Line 183- -Scene B- Cadet Antony: "Erys, you have a point." *looks at Maeve
+-Line 184- -Scene B- Zarina Dyrellia: --turns and folllws Maeve out-
+-Line 185- -Scene B- Bethany M Scarlett: Follows after Maeve to the science la
+-Line 186- -Scene B- Erys: *follows Maeve to the science lab
+-Line 187- -Scene B- Thelonious: *He follows the other cadets to the lab
+-Line 188- -Scene A- Riens: He's got 27 cadets on this boat. So we'd have been ther eanother hour goign through jus them
+-Line 189- -Scene A- Nyoko: *Steps out and loosk across at the bridge taking in the design. She had know in before.
+-Line 190- -Scene B- Bethany M Scarlett: arrives with the others at the science la
+-Line 191- -Scene B- Hedwik: *Files into the lab.
+-Line 192- -Scene B- Zarina Dyrellia: --enters the lab and finds a corner to stand in-
+-Line 193- -Scene A- Nyoko: "Oh I don't mind being moved along Riens.
+-Line 194- -Scene A- Riens: *resisted the urge to give the engineering reedout another look
+-Line 195- -Scene A- Riens: *pulled up the full display
+-Line 196- -Scene A- Nyoko: "I can get carried away with meeting cadets.
+-Line 197- -Scene B- Captain Marcus Blaine: *As they arrived in the science lab, the pale Catadai woman was waiting for them with a smile.*  "Good day to you all!
+-Line 198- -Scene A- Riens: 454 meters 19 decks fastests impulse in the fleet
+-Line 199- -Scene B- Zarina Dyrellia: "Good day Doctor.
+-Line 200- -Scene B- Bethany M Scarlett: "Goodday, m'am
+-Line 201- -Scene B- Thelonious: "Mornin', Doctor!
+-Line 202- -Scene B- Hedwik: "Good day, Commander.
+-Line 203- -Scene A- Nyoko: *Took moment to review the full display of the ships mapping.* "Liz would surently like this ship." She said with smile
+-Line 204- -Scene A- Riens: .46 with a nice set of overdrivers that can push her to .5
+-Line 205- -Scene B- Erys: *tries to blend into the background
+-Line 206- -Scene A- Riens: Also some of the most avanced sensors. But the real ke
+-Line 207- -Scene A- Captain Marcus Blaine: "I trust you can take it from here, Admiral, I need to see to getting this thing ready to fly."  *He gave a respectful nod to the two and got back to work.
+-Line 208- -Scene A- Riens: Coaxial Drive, allows you to jump to a targeted anchor beacon
+-Line 209- -Scene A- Nyoko: "Oh?
+-Line 210- -Scene B- Cadet Antony: "Good day ma'am.
+-Line 211- -Scene A- Nyoko: "Well- I didn't expect tha.t" She looked to Blaine
+-Line 212- -Scene A- Riens: Would be a problem except the Orazul saw fit to make the perfect target in their gate system. ARtesia also acts as one
+-Line 213- -Scene A- Riens: "Same wth the Sphere int eh delta.
+-Line 214- -Scene A- Riens: 10000 Ly maximum jump range. We won't be using that much to get to 220
+-Line 215- -Scene B- Captain Marcus Blaine: [Bessley]  "Well, now that you've been boarded it's time that we go into the finer details of what we are going to be doing out there.
+-Line 216- -Scene A- Nyoko: *nods once.
+-Line 217- -Scene A- Nyoko: "Well if we are already to go.
+-Line 218- -Scene B- Captain Marcus Blaine: [Bessley]  "To start, is anyone familiar with the Orzaul?
+-Line 219- -Scene B- Hedwik: "Only the barest of basics, Commander.
+-Line 220- -Scene A- Cadet Antony: [Shay] "How well did the cadets fare sir?" *Shay said to the captain making sure to not talk over an admiral
+-Line 221- -Scene B- Zarina Dyrellia: "i have heard of them. My mother had told me stories.
+-Line 222- -Scene B- Cadet Antony: "Same, just stories.
+-Line 223- -Scene B- Bethany M Scarlett: ""same as my fellow Cadets really heard basics
+-Line 224- -Scene A- Nyoko: "I do not.
+-Line 225- -Scene A- Captain Marcus Blaine: "...Very well, get us moving then.
+-Line 226- -Scene A- Nyoko: (Sorry that was for tells
+-Line 227- -Scene A- Nyoko: *nods once.* "Helm. lay in course for 220.
+-Line 228- -Scene B- Cadet Vrajen Kodor: *Vrajen listened keenly
+-Line 229- -Scene A- Captain Marcus Blaine: *He blinked.
+-Line 230- -Scene B- Riens: Well then Admiral do you still remember how to fly
+-Line 231- -Scene A- Riens: Well then Admiral do you still remember how to fly
+-Line 232- -Scene A- Nyoko: "I think i can mange." She said with grin
+-Line 233- -Scene A- Riens: Captain if you don't mind. I'll give your ship back once we've jumped
+-Line 234- -Scene B- Captain Marcus Blaine: [Bessley]  "Tell me what you've heard, then.
+-Line 235- -Scene A- Cadet Antony: [Shay] *Shay signals all departments that the ship is getting underway.
+-Line 236- -Scene A- Captain Marcus Blaine: "She's all yours, Admiral.
+-Line 237- -Scene A- Nyoko: *Glances over her shoulder to the captain and offers him reassured look.
+-Line 238- -Scene A- Riens: Alrright. Commander daly signal spacedock we aim to depart and kindly request they clear traffic and mooring
+-Line 239- -Scene B- Hedwik: "They were a highly-advanced species exterminated two million years ago as part of the Dark's genocidal wars. Builders of portal networks.
+-Line 240- -Scene A- Riens: =^= Engineering, Brridge. Stand by for coaxial drive test jump
+-Line 241- -Scene B- Captain Marcus Blaine: [Bessley]  "Close.  But close enough.
+-Line 242- -Scene D- Riens: [Luka] =^= Aye Bridge. Powering up overflow capacitor
+-Line 243- -Scene B- Bethany M Scarlett: was about to speak, but Hedwik got there first
+-Line 244- -Scene B- Cadet Antony: *looks like she was about to say something then chose not to.
+-Line 245- -Scene A- Cadet Antony: [Shay] "Cleared for departure sir.
+-Line 246- -Scene A- Riens: Alright, Helm helmsmens discretion to clear spacedock
+-Line 247- -Scene A- Nyoko: *Nyoko took a moment to familairze herself with the console. She look over a moment. There was s mall delay as they seem to have MOVED everything around.
+-Line 248- -Scene B- Captain Marcus Blaine: [Bessley]  "The Orzaul were not exterminated - not entirely, anyway.  They live on currently in the form of a highly advanced entity named Allaya.
+-Line 249- -Scene B- Cadet Antony: *Tavi makes a note in her PADD about that.
+-Line 250- -Scene A- Nyoko: *She spoke to herself a moment, thursters... attudied, lattrial, dorsal.
+-Line 251- -Scene A- Nyoko: "Well then-" She spoke up. "I'll try to ding her on the way you captain.
+-Line 252- -Scene B- Hedwik: *Nods some, a curiousity coming to her eyes.
+-Line 253- -Scene B- Captain Marcus Blaine: [Bessley]  "And... other forms, however our focus today is on Allaya.  She is a digitized Orzaul consciousness, formerly enslaved by the Tanausan Imperium.
+-Line 254- -Scene A- Nyoko: *beep beep* *Nyoko actuvated thrusters and started to move the ship towards the giant space doors. Then she checked her instrements. "40 seconds too clearance.
+-Line 255- -Scene B- Hedwik: *A small scowl of distaste came to her features.
+-Line 256- -Scene B- Cadet Antony: "ma'am, a question?
+-Line 257- -Scene B- Captain Marcus Blaine: [Bessley]  "And, most pertinently - she is---  Yes, of course.
+-Line 258- -Setting- Narrator: *the docking cage started to retract the gate doors moving away as the stardancer began to clear the construction dock
+-Line 259- -Scene B- Captain Marcus Blaine: [Bessley]  "If you need clarification feel free to cut in.
+-Line 260- -Scene B- Cadet Antony: *Holding her PADD* "is Allaya a single entity consciousness or a conglomerate consciousness?
+-Line 261- -Scene B- Bethany M Scarlett: raises a han
+-Line 262- -Scene A- Riens: Science gain lock on Artesian gate
+-Line 263- -Scene A- Riens: [Mannheim] Aye sir
+-Line 264- -Scene B- Captain Marcus Blaine: [Bessley]  *She smiled.*  "Well, I'm glad you asked.  The answer is that... it is complicated.  You see, Allaya takes two forms - the intelligence behind the Orzaul gates and their network, as well..
+-Line 265- -Setting- Narrator: *after a few more seconds hte stardancer was completely free
+-Line 266- -Scene A- Nyoko: "Captain, we are free and clear of the docking structure. Bringing Impulse Engines online.
+-Line 267- -Scene A- Riens: Helm, set course waypoint Alpha. Half impulse
+-Line 268- -Scene B- Captain Marcus Blaine: as an artificial body that was created by an entity known as Elysia.  The two are the same person, however they have been observed to have separated their consciousnesses for periods of time..
+-Line 269- -Scene B- Captain Marcus Blaine: in order to gain new experiences in her artificial body before merging consciousnesses once more upon the artificial body's return.
+-Line 270- -Scene B- Cadet Antony: "What I meant to ask, was, is she the converted mind of a single organic individual, or many of them?
+-Line 271- -Setting- Narrator: =/\= "All hands, we are departing from dock.
+-Line 272- -Scene A- Nyoko: "Course set for the 100 Mkm, and accelerating to half implse.
+-Line 273- -Scene B- Captain Marcus Blaine: [Bessley]  "Oh!  Well that's much more simple to answer, she is a single Orzaul entity.  A child when she went into the machine, but aged over milennia.
+-Line 274- -Scene B- Cadet Antony: *making notes in the PADD, actually interested
+-Line 275- -Scene A- Nyoko: "They make them quite fast." She noted
+-Line 276- -Scene B- Captain Marcus Blaine: [Bessley]  "But it sounds like we are departing from dock, if you'd all like to observe?
+-Line 277- -Scene A- Riens: "If only the ID's could keep up
+-Line 278- -Scene A- Nyoko: "We'll be to the jump point at 12 minutes.
+-Line 279- -Scene B- Cadet Antony: *looks up, nods
+-Line 280- -Scene B- Thelonious: *He leans over to Antony,* "Might I have a copy of that afterwards?
+-Line 281- -Scene A- Riens: "Lets cut that down, takes us to full.
+-Line 282- -Scene B- Cadet Antony: *nods to Thelonious
+-Line 283- -Scene A- Nyoko: *beep beep.* "4.5 mimutes." *Impusle engines went to full
+-Line 284- -Scene B- Bethany M Scarlett: takes down her hand hand her question unanswered, but very interested in observin
+-Line 285- -Scene D- Riens: [Luka]=^= Engineering to bridge, coaxial drive reporting green standing by
+-Line 286- -Scene B- Captain Marcus Blaine: [Bessley]  *She pulled up the bridge view on the big screen.
+-Line 287- -Scene A- Riens: =^= Acknowledged engineering
+-Line 288- -Scene B- Cadet Antony: *Tavi observes without moving, paying attention to the sensations in her feet and what she hears
+-Line 289- -Scene A- Riens: "Can't explore with this one but it does make the boring bits go by quicker.
+-Line 290- -Scene A- Captain Marcus Blaine: "Gets us to the real exploring faster."  *He smirked.
+-Line 291- -Scene A- Riens: "Though only two points in this galaxy it can jump to and the spheres just a bit to far away
+-Line 292- -Scene A- Nyoko: "I always liked the boring bits though Riens." Smirks
+-Line 293- -Scene B- Hedwik: *Crosses her arms in front of her chest as she watches.
+-Line 294- -Scene A- Cadet Antony: [Shay nods at the Captain's statement
+-Line 295- -Scene A- Nyoko: "Fast is not always better.
+-Line 296- -Scene A- Captain Marcus Blaine: *He bit the inside of his cheek.
+-Line 297- -Scene B- Erys: *watches the screen calmly
+-Line 298- -Scene A- Nyoko: "Coming up on our point now captain.
+-Line 299- -Scene A- Riens: "On the otherside theres only artesia and the one gate as well but atleast you'll be able to jump back to controlled space if things go really wrong
+-Line 300- -Scene A- Nyoko: "We have moved out of the gravational mask.
+-Line 301- -Scene A- Riens: Good
+-Line 302- -Scene A- Riens: Confirm jump target Artesia, Avernus system
+-Line 303- -Scene B- Captain Marcus Blaine: [Zeke]  *He was smirking at something even as he watched.
+-Line 304- -Scene A- Cadet Antony: [Shay] *Actively checking the boards.
+-Line 305- -Scene A- Riens: [Mannheim] Science confirmed
+-Line 306- -Scene B- Bethany M Scarlett: "This is cool
+-Line 307- -Scene B- Thelonious: *He clasps his hands together and eagerly watches.
+-Line 308- -Scene B- Cadet Antony: *nods at Zeke's expression
+-Line 309- -Scene B- Zarina Dyrellia: --observes impassivily-
+-Line 310- -Scene A- Nyoko: *waits for the jump to be engaged.
+-Line 311- -Setting- Narrator: =^= All hands, stand by Coaxial jump in 30 seconds
+-Line 312- -Scene B- Hedwik: *Has cracked the smallest of smiles herself.
+-Line 313- -Scene B- Cadet Antony: *Tavi chewed on her lip, gripping the PADD.
+-Line 314- -Scene B- Captain Marcus Blaine: [Marlin]  "What does 'coaxial' mean?" *He whispered at Marla.
+-Line 315- -Scene B- Captain Marcus Blaine: [Marla]  "Shh...
+-Line 316- -Scene B- Bethany M Scarlett: looked with excitement at the green as the jump was about to happen
+-Line 317- -Scene A- Riens: "Well in the words of a certain friend of mine. Helm, Let's Dance.
+-Line 318- -Scene B- Cadet Vrajen Kodor: *Vrajen looked around at the others as he prepared himself
+-Line 319- -Scene B- Bethany M Scarlett: screen
+-Line 320- -Scene A- Captain Marcus Blaine: "Just don't break it, ma'am," *he chuckled.
+-Line 321- -Scene A- Nyoko: "Well.. Captain.
+-Line 322- -Scene A- Nyoko: "If he breaks it.
+-Line 323- -Scene A- Nyoko: "You'll get to see me boss him around to fix it.
+-Line 324- -Scene A- Captain Marcus Blaine: "Something I'll remember fondly, I'm sure.
+-Line 325- -Scene A- Nyoko: "That will make two of us." Grins
+-Line 326- -Scene A- Nyoko: *But goes back to serious helsmen mode
+-Line 327- -Scene B- Erys: *glances over at the Rigby's*  Coaxial means it's two different layers on the same axis. Like a circle within a circle, or in this case a bubble within a bubble
+-Line 328- -Setting- Narrator: *as nyoko pushed the button everyone would suddenly feel like their stomach dropped out of them for a moment. A small high pitched wine in the back of their minds and then nothing
+-Line 329- -Scene B- Cadet Antony: *Tavi edges to Marlin and then pauses when Erys speaks, surprised
+-Line 330- -Scene B- Captain Marcus Blaine: [Marlin]  *He gave her a blank look.
+-Line 331- -Scene A- Nyoko: *She engages the jump sequence.
+-Line 332- -Scene B- Captain Marcus Blaine: [Marlin]  *And when, somewhere... a lightbulb clicked on.*  "Oh!  Warp bubbles?
+-Line 333- -Setting- Narrator: *the Stardancer for a moment would seem to be in two places at once, then only 400km off of Artesia Starbase 220 another 2 million kms away as they landed in the Safe zone
+-Line 334- -Scene B- Hedwik: *She patted Marlin's arm supportively.
+-Line 335- -Scene A- Nyoko: *Nyoko missed the jump as she blinked her eyes and felt the sensaion, and then realized it was over.
+-Line 336- -Scene A- Nyoko: *She looked down at her console, and checked navigation.
+-Line 337- -Scene A- Riens: Yeah that takes some getting used to
+-Line 338- -Scene B- Cadet Antony: *Whispers to Marlin after the event* "It means two points joined by a common axis or pivot point.  In this case, jump means crossing it, to the other point from where we were.  It's... very new.
+-Line 339- -Scene B- Erys: *nods, fighting against a strong urge to relive breakfast
+-Line 340- -Scene A- Nyoko: "Remarkable. 1200 lys.
+-Line 341- -Scene A- Nyoko: "Checking... Navigation.
+-Line 342- -Scene A- Riens: Well avernus is on the ass end of nowhere
+-Line 343- -Scene A- Captain Marcus Blaine: *He folded his arms.*  "Gotta love modern technology.
+-Line 344- -Scene A- Nyoko: "400km off of Artesia Starbase 220.
+-Line 345- -Scene A- Cadet Antony: [Shay] "Communications link reestablished.
+-Line 346- -Scene A- Nyoko: "Now we know why... it's called the Stardancer. This ship is going to perroette through out the galaxy." *She said admiringly.
+-Line 347- -Scene A- Nyoko: pirouette *
+-Line 348- -Scene A- Cadet Antony: [Shay] "Recieving a hail from... *smile* The USS Protector, sir.
+-Line 349- -Scene A- Riens: On screen
+-Line 350- -Scene B- Hedwik: *She seems to falter for a moment, closing her eyes to center again, then reopening them.
+-Line 351- -Scene A- Cadet Antony: *on screen
+-Line 352- -Scene A- Captain Marcus Blaine: "That's the plan."  *He then smirked and was about to answer when Jax did it for him.
+-Line 353- -Scene B- Cadet Antony: *Tavi changes stance, and breaths deep.
+-Line 354- -Setting- Narrator: *Captain Helena "jumpy" Defoors appeared her red hair pulled back with a small streak of grey in it
+-Line 355- -Scene A- Nyoko: ((Marcus is worried this is going ot turn into the Titan. lol)
+-Line 356- -Scene B- Captain Marcus Blaine: [Zeke]  *He looked a bit paler than usual, his spots more visible now.
+-Line 357- -Setting- Narrator: [Jumpy] Well that was an entrance sir, only a few minutes later than you said we were about to leave you behind since we have to slow boat it to Roma
+-Line 358- -Scene B- Zarina Dyrellia: --looks queezy and unsteady.-
+-Line 359- -Scene B- Cadet Vrajen Kodor: Wow.
+-Line 360- -Scene B- Thelonious: *He stumbles a bit.* "That's a first...
+-Line 361- -Scene B- Hedwik: "A few jumps like that and we will be used to it.
+-Line 362- -Scene A- Riens: "Sorry to keep you waiting Admiral perogative, Admirals rather. Well Nyoko thats our ride back.
+-Line 363- -Scene A- Captain Marcus Blaine: "Good luck with them, Jumpy," *he grinned.
+-Line 364- -Scene A- Nyoko: "Indeed.
+-Line 365- -Scene B- Cadet Antony: "That is... not expected, but maybe you are right.
+-Line 366- -Scene A- Captain Marcus Blaine: "And with my ship...
+-Line 367- -Setting- Narrator: *The Merriweather class reconasiance carrier loomed beside the stardancer
+-Line 368- -Scene A- Nyoko: *Nyoko locks the console as you supposed to before leaving it.
+-Line 369- -Scene B- Erys: *glances at Hedwik* You'd think so, wouldn't you
+-Line 370- -Scene A- Riens: [Jumpy] Just one thing
+-Line 371- -Scene A- Nyoko: *Steps bakc up to the two.
+-Line 372- -Scene B- Bethany M Scarlett: for a brief moment looked like she could throw up, but recovered fairly quick "That was an experience, likely we can get used to that, I hope
+-Line 373- -Scene B- Hedwik: "It is amazing what the body gets used to. My mother has had her neck broken three times...
+-Line 374- -Setting- Narrator: *the entire protector flight wing gave them a series of coardinated flybys
+-Line 375- -Scene B- Thelonious: "And she's still alive?
+-Line 376- -Scene B- Hedwik: "Indeed.
+-Line 377- -Scene A- Nyoko: *Captain. She is all yours.* Nods once. *Offers her hand for shake.
+-Line 378- -Scene B- Cadet Antony: "Broken.. 3 times?
+-Line 379- -Scene A- Captain Marcus Blaine: "Just had to show off..."  *He chuckled.
+-Line 380- -Setting- Narrator: [Jumpy] Protector out
+-Line 381- -Scene B- Cadet Antony: "I've broken a lot of bones, but never my neck.
+-Line 382- -Scene A- Captain Marcus Blaine: *He went to shake Nyoko's hand.*  "We'll get her back in one piece, ma'am.  Promise this time.
+-Line 383- -Scene B- Hedwik: *She nodded to Tavi.* "A "Subpar" helms officer, she said.
+-Line 384- -Scene A- Nyoko: "Good luck Captain Blaine. I look forward to reading the reports.
+-Line 385- -Scene B- Erys: That's an unusual level of survival luck, but also terrible luck avoiding injury
+-Line 386- -Scene A- Riens: "And if you don't just make sure to have all the pieces. i can fix her.
+-Line 387- -Scene A- Riens: *jax offered his hand
+-Line 388- -Scene A- Nyoko: "What ever you need Captain.
+-Line 389- -Scene A- Nyoko: "You mail me personally.
+-Line 390- -Scene A- Captain Marcus Blaine: "I'll hold you to it, Admiral."  *He shook Jax's hand too.
+-Line 391- -Scene B- Hedwik: "No small wonder she left Starfleet after the war." *She chuckled softly.
+-Line 392- -Scene A- Captain Marcus Blaine: "Aye ma'am.
+-Line 393- -Scene A- Riens: Now admiral lets get over to the protector they just got a flight of the new Berzerker mark VI's and we got a good long flight back for you to get some inspection time
+-Line 394- -Scene A- Nyoko: "Bridge is your captain.
+-Line 395- -Scene A- Cadet Antony: [Shay] *smiling at the admiral, she sends a message down to the shuttle bay to ensure the Admiral's craft is ready to depart.
+-Line 396- -Scene B- Captain Marcus Blaine: [Bessley]  "Get used to it... we're going to be doing it again once we get to the Orzaul gate.
+-Line 397- -Scene A- Nyoko: *Follows Jax to the turbolift.
+-Line 398- -Scene B- Cadet Antony: "Again... how soon?
+-Line 399- -Scene B- Hedwik: "Nothing like exposure therapy.
+-Line 400- -Scene A- Nyoko: *After the door shuts she took moment of quiet thoughts.
+-Line 401- -Scene B- Zarina Dyrellia: "hopefully not to soon.
+-Line 402- -Scene A- Captain Marcus Blaine: *Blaine went to take his seat.*  "Prepare to take us through Artesia once they've cleared.
+-Line 403- -Scene C- Riens: Sorta envy them
+-Line 404- -Scene C- Riens: *he said as the turbolift moved
+-Line 405- -Scene B- Erys: Remind me again which bunk is Zeke's? I still owe him a present
+-Line 406- -Scene B- Captain Marcus Blaine: [Zeke]  "I can hear, you know.
+-Line 407- -Scene C- Riens: "Been awhile since i was an explorer.
+-Line 408- -Scene A- Nyoko: "Mmm. I surely felt that too." She told him
+-Line 409- -Scene B- Cadet Antony: *Raised eybrow* "What did he do, pass gas in the line?
+-Line 410- -Scene B- Erys: You were supposed to
+-Line 411- -Scene C- Riens: *he exited the turbolift when it stopped and headed into the shuttle
+-Line 412- -Scene A- Nyoko: "All those cadet faces. It is remerkable how much Erys looks like Erys.
+-Line 413- -Scene A- Nyoko: "Did you notice that?
+-Line 414- -Scene B- Captain Marcus Blaine: [Zeke]  "She was sweating so hard it was practically squirting on me.
+-Line 415- -Scene A- Nyoko: "Sisters kid?" She questioned
+-Line 416- -Scene B- Captain Marcus Blaine: [Zeke]  "Though if you'd care to squirt something else on me---
+-Line 417- -Scene B- Captain Marcus Blaine: [Bessley]  "Ahem...
+-Line 418- -Scene B- Erys: You wish you could ma... you know what? Nevermind
+-Line 419- -Scene C- Riens: "yeah, some genes are strong
+-Line 420- -Scene C- Riens: *jax talked as they walked to the shuttle and boarded
+-Line 421- -Scene B- Cadet Antony: "Yes Ma'm.  Thank you for the display." *she says changing subject.
+-Line 422- -Scene B- Hedwik: *She gave Dr. Bessley the smile of an innocent angel who'd not partaken in the banter.
+-Line 423- -Scene C- Nyoko: *Continued to to the landing bay.
+-Line 424- -Scene B- Cadet Vrajen Kodor: *he shook his head
+-Line 425- -Scene B- Captain Marcus Blaine: [Bessley]  "While we have a moment, I believe you had a question, Cadet Scarlett?
+-Line 426- -Scene B- Riens: [Maeve] Zeke... don't make me get a bolian
+-Line 427- -Scene B- Thelonious: *He looks at the two with an awkward expression.
+-Line 428- -Scene C- Nyoko: *She contineud to follow JAx through the halls. She had no idea where anything was on this ship.
+-Line 429- -Scene B- Captain Marcus Blaine: [Zeke]  "Jealousy doesn't suit you, Maeve."  *He winked at her.
+-Line 430- -Scene B- Cadet Antony: *smirks at Maeve and winks, knowing where they could ge a bolian
+-Line 431- -Scene B- Riens: [Maeve] Who said anything about jaelousy /Cadet/
+-Line 432- -Scene B- Bethany M Scarlett: "Ehh ohh yeah, it was about Allaya,she is an actual sentient digital intelligence, not artificial, actual?
+-Line 433- -Scene C- Riens: *entering the bay he moved to the shuttle to get them underweigh
+-Line 434- -Scene C- Riens: "Not a bad little trip away from that desk. You know if you take over where compton lfet to becoem admiral they aren't going to let you leave earth much.
+-Line 435- -Scene B- Captain Marcus Blaine: [Bessley]  "There's been debate over the particulars for decades now... but to answer what I think you mean, yes.  Allaya was a flesh and blood Orzaul at one point.
+-Line 436- -Scene B- Hedwik: "As far as I understood, she is a digitized sentient mind, no?
+-Line 437- -Scene B- Hedwik: *She shut up as t he doctor spoke.
+-Line 438- -Scene B- Riens: [Maeve] thats the facinating thing. Immortality through digitization
+-Line 439- -Scene C- Nyoko: *She boarded the shuttlecraft and sat down and went along for the ride.* "pirouette across the stars is game for the young Riens.
+-Line 440- -Scene B- Hedwik: "Poor woman. It sounds harrowing...
+-Line 441- -Scene B- Cadet Antony: *nodded to Hedwik* "Mhmm..
+-Line 442- -Scene B- Riens: [MAeve] That is technology few have. sure we cna emulate it but to actually properly rebuild an analgue conciouness in the digital world without loss... fascinating
+-Line 443- -Scene B- Bethany M Scarlett: "ITs very facinating, the code building such a thing and supporting it would be highly advanced and be millions of lines.
+-Line 444- -Scene C- Riens: "Or at least the young bodied.
+-Line 445- -Scene B- Bethany M Scarlett: "Scratch that, billions
+-Line 446- -Scene C- Riens: =^= Stardancer tucker taking leave Fair winds and clear skies
+-Line 447- -Scene B- Cadet Antony: "Could the ship's computer even host such an entity ma'am?
+-Line 448- -Scene C- Riens: *jax took the shuttle out of hte bay
+-Line 449- -Setting- Narrator: *the admirals shuttle headed toward the protectors bay
+-Line 450- -Scene B- Hedwik: "A fragment of her, I could imagine, if she truly is able to split like the doctor said?
+-Line 451- -Scene B- Captain Marcus Blaine: [Bessley]  "The Orzaul were an extremely advanced race, at a time where most of our ancestors weren't even bipedal yet.  And yet, they are gone - only survived by pieces of their technology and a..
+-Line 452- -Scene B- Captain Marcus Blaine: few digitized souls.
+-Line 453- -Scene B- Bethany M Scarlett: "The full thing? no way the ships computer even if we emptied it would be big enough
+-Line 454- -Scene B- Hedwik: *Smirked at the "Most" of our ancestors line.
+-Line 455- -Scene B- Cadet Antony: *Tavi looks to Dr Bessley to answer
+-Line 456- -Scene B- Bethany M Scarlett: would not be big enough
+-Line 457- -Scene B- Captain Marcus Blaine: [Bessley]  "In their properly restored forms, no.
+-Line 458- -Scene B- Cadet Antony: *Making notes in the PADD
+-Line 459- -Scene B- Hedwik: "Is Allaya an independent? Or a Federation Citizen? Or even a starfleet officer?
+-Line 460- -Scene B- Captain Marcus Blaine: [Bessley]  "However fragments can be contained on our levels of technology.  There is also the example of the VIAs, which is the highly compressed, limited forms they were pushed into to serve the..
+-Line 461- -Scene B- Captain Marcus Blaine: Imperium.
+-Line 462- -Scene B- Captain Marcus Blaine: [Bessley]  "But that isn't something we'd ever resort to, obviously.  And Allaya is independant.  However, she is most certainly an ally.
+-Line 463- -Scene B- Hedwik: *She smiled and nodded.
+-Line 464- -Scene B- Bethany M Scarlett: nodded her head as she listened to Bessley "How does the Imperiums computer capicity compare to our own?
+-Line 465- -Scene B- Ensign Maeve Blaine: "I think the hope is once we are in the area near the gate we find more.
+-Line 466- -Scene A- Cadet Antony: *tap tap tap
+-Line 467- -Scene B- Cadet Antony: *tap tap tap
+-Line 468- -Scene B- Hedwik: "-Did-." *She smirked at Bethany.* "Our predecessors did a fine job of dismantling it.
+-Line 469- -Scene B- Captain Marcus Blaine: [Bessley]  "That's getting into something not really all that relevant to our purposes.  But yes, as Ensign Tolena said we are going to be using her gates along with our coaxial drive.
+-Line 470- -Scene B- Hedwik: *She quietened down as they got back to the briefing.
+-Line 471- -Scene B- Zarina Dyrellia: --Zarina frowns-
+-Line 472- -Scene B- Cadet Antony: "As an Ally, she assists with that?
+-Line 473- -Scene B- Captain Marcus Blaine: [Bessley]  "Our primary goal is going to be exploration - and in that exploration, we are hoping to discover more old Orzaul gates that can be recovered and utilized to further build the network.
+-Line 474- -Scene B- Hedwik: *She actually -beamed- at the idea of uncovering more of the LMC's past, trying very hard to get her expression back under control.
+-Line 475- -Scene B- Cadet Antony: *Gasps audibly* "Amazing.
+-Line 476- -Scene B- Hedwik: *Nodnods in agreement to Tavi.
+-Line 477- -Scene B- Captain Marcus Blaine: [Bessley]  "A few months before we were assigned this mission, a new - well, new to us - Orzaul gate was found in what was once the region of space known as the Black Ocean.
+-Line 478- -Scene B- Cadet Vrajen Kodor: *he perked at that
+-Line 479- -Scene B- Bethany M Scarlett: looks very excited about their mission
+-Line 480- -Scene B- Ensign Maeve Blaine: "Unfortuantely it also means we will be the only ship in the quadrant often.
+-Line 481- -Scene B- Captain Marcus Blaine: [Bessley]  "We will be using that a jumping point to uncover what was once obscured by the Black Ocean, as well as those new gates -- and yes, it does.
+-Line 482- -Scene B- Ensign Maeve Blaine: "Of ours anyway.
+-Line 483- -Scene B- Hedwik: *Straightened out again, trying her best to appear dignified, but it was obvious she was as buzzing with excitement as the others were.
+-Line 484- -Scene B- Captain Marcus Blaine: [Bessley]  "But a little danger has never stood in the way of scientific progress," *she grinned.
+-Line 485- -Scene B- Captain Marcus Blaine: [Zeke]  *He seemed to have the good instinct to not comment on that one.
+-Line 486- -Scene B- Zarina Dyrellia: --is the only one here not buzzing with excitment.-
+-Line 487- -Scene B- Captain Marcus Blaine: [Bessley]  "With all that said... are there any more questions?
+-Line 488- -Scene B- Hedwik: *She raised her hand.
+-Line 489- -Scene B- Captain Marcus Blaine: [Bessley]  "Please.
+-Line 490- -Scene B- Cadet Antony: *Glanced up from her PADD to Bessley at the danger comment, shook her head and wrote out the rest of her note
+-Line 491- -Scene B- Hedwik: "Do we have any allies in the sector we are going to? Not starfleet, obviously, but Dawn Alliance, maybe?
+-Line 492- -Scene B- Captain Marcus Blaine: [Bessley]  "Not yet.
+-Line 493- -Scene B- Hedwik: *She nodded.
+-Line 494- -Scene B- Ensign Maeve Blaine: "ITs part of the reason this ship has an experienced command staff
+-Line 495- -Scene B- Ensign Maeve Blaine: "With lots of experience witht eh LMC
+-Line 496- -Scene B- Hedwik: "I suppose nothing beats the learning experience of being isolated like that.
+-Line 497- -Scene B- Captain Marcus Blaine: [Marlin]  "We won't be isolated, we'll have each other.
+-Line 498- -Scene B- Cadet Vrajen Kodor: And rely on eachother
+-Line 499- -Scene B- Hedwik: *She looked at the two and could not help but smile.* "Yes, so it shall be.
+-Line 500- -Scene B- Bethany M Scarlett: "We leans on and support one another, have eachother's backs and we are all gonna be great
+-Line 501- -Scene B- Zarina Dyrellia: --looks at the others skeptically.-
+-Line 502- -Scene B- Cadet Antony: "As well as the officers who train us.
+-Line 503- -Scene B- Captain Marcus Blaine: [Bessley]  "There's the spirit!  Now... unless someone has snything else they need to know - about the mission or anything else - feel free to head out to Dizzy Lizzies.  We'll make it a short..
+-Line 504- -Scene B- Captain Marcus Blaine: first day, I have the power to do that."  *She winked a gleaming eye.
+-Line 505- -Scene B- Bethany M Scarlett: "Best science boss ever!
+-Line 506- -Scene B- Zarina Dyrellia: "aye ma'am. No questions here.
+-Line 507- -Scene B- Ensign Maeve Blaine: [Maeve] We have a bit of a cooldown on the coaxial anyway
+-Line 508- -Scene B- Cadet Antony: *Smiles* "Thank you ma'am.
+-Line 509- -Scene B- Hedwik: "Commander." *She quickly stood to attention.
+-Line 510- -Scene C- Ensign Maeve Blaine: Lets go to lizzies for the traversal
+-Line 511- -Scene B- Ensign Maeve Blaine: Lets go to lizzies for the traversal
+-Line 512- -Scene B- Ensign Maeve Blaine: *maeve headed out to the lounge
+-Line 513- -Scene B- Cadet Antony: "i want to see" *she says tucking away her padd and following
+-Line 514- -Scene B- Erys: Oh yeah, great idea! Let's get drunk so we have an excuse to puke everywhere. *follows Maeve
+-Line 515- -Scene B- Hedwik: *She relaxed after giving Dr. Bessley her "goodbye" in the form of atttention, before turning away and following the humulan.
+-Line 516- -Scene B- Zarina Dyrellia: "i believe i should go to sickbay.
+-Line 517- -Scene B- Captain Marcus Blaine: [Bessley]  *She waved them farewell.
+-Line 518- -Scene B- Captain Marcus Blaine: [Zeke]  "What, the stick up your ass poke through an organ?" *He asked Zarina.
+-Line 519- -Scene B- Cadet Antony: "Oh good, do that, don't puke at the club
+-Line 520- -Scene B- Bethany M Scarlett: "SEe you soon doctor" she said before heading out the doo
+-Line 521- -Scene B- Thelonious: "I'm going to the lounge with them.." *He waves at the doctor before leaving.
+-Line 522- -Scene B- Zarina Dyrellia: ---raqises and eyebrow.-
+-Line 523- -Scene B- Erys: I'm saving my puke for Zeke's pillow
+-Line 524- -Scene B- Zarina Dyrellia: --turns to head out.-
+-Line 525- -Scene B- Captain Marcus Blaine: [Zeke]  "I've been known to make girls gag.
+-Line 526- -Scene C- Hedwik: *She headed straight for the bar.* "Kzari Dunkelbrau. With the little human meatballs? The small ones? Swiss or... whatever they were called.
+-Line 527- -Scene C- Cadet Antony: *not knowing, is very glad she was not there for Zeke's last statement
+-Line 528- -Scene C- Hedwik: *If there was no bartender as it was during their ship tour, she'd get her stuff herself and move off.
+-Line 529- -Scene C- Cadet Antony: "How can you eat that Maeve.. I swear.
+-Line 530- -Scene C- Ensign Maeve Blaine: "Eat what?
+-Line 531- -Scene C- Cadet Antony: "Mystery meatballs
+-Line 532- -Scene C- Ensign Maeve Blaine: "Im nto follwoing.
+-Line 533- -Scene C- Cadet Antony: "Hundreds of recipes for them, and you just ask for one at random.
+-Line 534- -Scene C- Ensign Maeve Blaine: "THey are a universal constant.
+-Line 535- -Scene C- Ensign Maeve Blaine: "Every species has a version of them
+-Line 536- -Scene C- Cadet Antony: "I'd suggest if the jump made you sick, to hold off on a big meal.. or stick with salted pork and deep fried foods.
+-Line 537- -Scene C- Ensign Maeve Blaine: [Elsie] So heres yoru beer *she gave it to hedwik
+-Line 538- -Scene C- Hedwik: "Ah, thank you.. Elsie, yes?" *She took the beer and toasted the AI.
+-Line 539- -Scene C- Cadet Antony: "Swedish meatballs, that is the one you are thinking of, that every species seems to share a recipe for, yes?
+-Line 540- -Scene C- Ensign Maeve Blaine: [Elsie] *Looked at thelonios* Yes
+-Line 541- -Scene C- Thelonious: "Any good drinks I should try? Don't think I've ever tried Earth beer...
+-Line 542- -Scene C- Ensign Maeve Blaine: [Maeve] Yes. Thats the one
+-Line 543- -Scene C- Ensign Maeve Blaine: [Elsie] Really and you were at the academy
+-Line 544- -Scene C- Ensign Maeve Blaine: *she gave him a look up and down
+-Line 545- -Scene C- Ensign Maeve Blaine: [Elsie] *then retrieved a lager and put a orange slice in it
+-Line 546- -Scene C- Ensign Maeve Blaine: [Elsie] its called a blue moon
+-Line 547- -Scene C- Cadet Antony: "I'll stick with a nice settling birch soda.
+-Line 548- -Scene C- Ensign Maeve Blaine: [Elsie] *she then got Tavi her drink
+-Line 549- -Scene C- Hedwik: *Was heading off to a table, stopping to look at Elsie in a bit of a shock as she ruined Thelonious' beer.
+-Line 550- -Scene C- Ensign Maeve Blaine: [Elsie] *already had maeve a fauxito made
+-Line 551- -Scene C- Cadet Antony: "Thanks" *she smiled to Maeve in a slightly teasing fashion, then moved off to find Thelonius
+-Line 552- -Scene C- Ensign Maeve Blaine: *maeve watche dout of the window as they approached Artesia
+-Line 553- -Scene C- Thelonious: *He takes the drink and took a sip.
+-Line 554- -Scene C- Hedwik: *She took a seat and sipped as she looked out the window too.* "Mmm. Almost home.
+-Line 555- -Scene C- Ensign Maeve Blaine: [Elsie] Hey Vraj, What'll it be
+-Line 556- -Scene C- Cadet Vrajen Kodor: *Vrajen appeared shortly after at the bar, looking over the various drinks available
+-Line 557- -Scene C- Cadet Antony: *Tavi moved up next to Thelonius, and pulled out her PADD* "Send to your access or direct transfer to your PADD so you can edit for yourself?
+-Line 558- -Scene C- Thelonious: "That's.. interesting." *He turns to Antony,* "You can just send it to my access.
+-Line 559- -Scene C- Cadet Antony: *tap tap* "Done.
+-Line 560- -Scene C- Cadet Vrajen Kodor: Popular drink today
+-Line 561- -Scene C- Ensign Maeve Blaine: [Elsie] Beer it seems
+-Line 562- -Scene C- Cadet Vrajen Kodor: Then beer it is
+-Line 563- -Scene C- Thelonious: "Thanks!" *He turns back to the bartender, "I'm going to finish the rest of this drink, and see if I'm going to want another.
+-Line 564- -Scene C- Cadet Antony: *Tave puts away the padd, and pats Thelonius on the shoulder before moving past to find a window seat.
+-Line 565- -Scene C- Ensign Maeve Blaine: *maeve was sorta off on her own watching it through the window with the drink
+-Line 566- -Scene C- Ensign Maeve Blaine: [Elsie] *gives kdoro an irish stoudt
+-Line 567- -Scene C- Hedwik: *Seems thoughtful as she sipped her beer, watching Artesia as well.
+-Line 568- -Scene A- Captain Marcus Blaine: "Alright, that's enough waiting... take us through, helm.
+-Line 569- -Scene C- Cadet Antony: *Settling near Hedwik, she looks out the window then says* "You have family history in the LMC, right?
+-Line 570- -Scene C- Hedwik: "Not just family history. I was born and raised there.
+-Line 571- -Scene C- Cadet Antony: "About to go home for you then... which world?
+-Line 572- -Scene C- Thelonious: *He observes the window as stars pass by the ship,* "I wonder how long I'll last here..
+-Line 573- -Scene C- Hedwik: "Kzar. There are better kzari worlds, but my mother's work kept us more or less anchored there. I could at least make regular trips to the family estate up in the mountains.
+-Line 574- -Setting- Narrator: ** An exterior shot showed the Stardancer begin to move toward the welcoming arms of Artesia's gate.*
+-Line 575- -Scene C- Hedwik: *She smiled as the ship started moving.
+-Line 576- -Scene C- Cadet Antony: "Anchored, she work on a ship?
+-Line 577- -Scene C- Cadet Antony: *turned to watch the transition, putting the cup firmly on the table.
+-Line 578- -Scene C- Hedwik: *She chuckled softly.* "Not quite so literally. Federation embassy." *She sipped at her beer again as they moved closer, taking a meatball.* "Oh, these are to share, if you wish.
+-Line 579- -Setting- Narrator: ** As the ship eased through the gateway those looking through the windows could see an endless swirl of color, as if infinity stood before them.  They could hear a voice, serene and loving, and a..
+-Line 580- -Scene C- Ensign Maeve Blaine: *soft to herself* Noro, ammen, edregol hin ú-chebin
+-Line 581- -Setting- Narrator: sensation of deep inner peace and the bliss of an endless love echoing through eternity... *
+-Line 582- -Scene C- Cadet Antony: "Thanks, I'll pass till after...  I don't know what this is going to...
+-Line 583- -Scene C- Hedwik: "Und Hallo nochmal." *She sighed peacefully as she heard Artesia.
+-Line 584- -Scene C- Hedwik: "It will do nothing, I promise. Artesia is very gentle. I have done this trip dozens of times now.
+-Line 585- -Scene C- Hedwik: "I was... one? Two? My first time.
+-Line 586- -Scene C- Cadet Antony: *Captivated by the voice and sensation
+-Line 587- -Scene C- Ensign Maeve Blaine: [Elsie] Pretty
+-Line 588- -Scene C- Ensign Maeve Blaine: *maeve sat down
+-Line 589- -Scene C- Hedwik: *Gave Maeve a quick welcoming nod before quietening down again, listening to Artesia, humming along under her breath.
+-Line 590- -Scene C- Ensign Maeve Blaine: *maeve sipped her drink
+-Line 591- -Setting- Narrator: ** And then it was over, the Stardancer emerged on the other side into the LMC.  Before them they could see the Citadel, massive and gleaming and swarmed by thousands of ships coming and going, and..
+-Line 592- -Setting- Narrator: a ring gate within visual distance, much smaller than Artesia but gleaming with a beautiful cerulean light. *
+-Line 593- -Scene C- Hedwik: *She rested her chin on her fist, admiring the Citadel.* "As beautiful as the first time.
+-Line 594- -Scene C- Cadet Antony: *Tavi sighs when it is over.
+-Line 595- -Scene C- Ensign Maeve Blaine: "It is somehting.
+-Line 596- -Scene C- Cadet Antony: *Looking out the window* "So that's what it looks like.
+-Line 597- -Scene C- Captain Marcus Blaine: [Marlin]  "That was AMAZING!
+-Line 598- -Scene C- Captain Marcus Blaine: [Marla]  "It was... quite something.  Beautiful.
+-Line 599- -Scene C- Hedwik: "Wait till you see the insides. Rumor has it there are -still- unexplored levels. Or that is what we kids told ourselves when we dared each other to explore deeper.
+-Line 600- -Scene C- Captain Marcus Blaine: [Zeke]  "I heard the best Beryxian club in the universe is there.
+-Line 601- -Scene C- Hedwik: "I would not know about best, but it is a very fine one.
+-Line 602- -Scene C- Ensign Maeve Blaine: "We might not even be docking.
+-Line 603- -Scene C- Hedwik: "Ah. I suppose that is true...
+-Line 604- -Scene C- Cadet Antony: "Oh, that's a disapointment.  Maybe on the way back?
+-Line 605- -Setting- Narrator: ** As Maeve said this, the Stardancer began to move toward the smaller ring. *
+-Line 606- -Scene C- Cadet Antony: *sips
+-Line 607- -Scene C- Hedwik: "Seems the ensign was correct. And completely had no insider information." *She smirked.
+-Line 608- -Scene C- Cadet Antony: "So.. you said embassy, your mother is an ambassador or something?
+-Line 609- -Scene C- Cadet Vrajen Kodor: *Vraj approached the others* Mind if I join you three
+-Line 610- -Scene A- Captain Marcus Blaine: "...So let me get this straight, you don't know why -you- ran away?
+-Line 611- -Scene C- Ensign Maeve Blaine: "Oh no i've been briefed by Commander Bessley on the mission as well.
+-Line 612- -Scene C- Hedwik: *Nodded to Vrajo.* "Do sit down... And yes. UFP ambassador to Kzar.
+-Line 613- -Scene A- Captain Marcus Blaine: [Allaya]  "As I have tried to explain, Captain Blaine, my consciousness was separated from the artificial body when the decision was made to depart.
+-Line 614- -Scene C- Cadet Antony: "So your mother was... trill?" *she looked questioning* "and your father was Kzari?
+-Line 615- -Scene A- Captain Marcus Blaine: *He rubbed the bridge of his nose a moment.*  "But you still let your body access the gate.
+-Line 616- -Scene A- Captain Marcus Blaine: [Allaya]  "Of course I did.  Why wouldn't I trust myself?
+-Line 617- -Scene C- Hedwik: "Trill, yes. And well, the kzari part is also a mother. I was a "lab" baby, I suppose you could say." *She nodded.
+-Line 618- -Scene C- Hedwik: "They were apparently one of the first openly gay couples back during the Auzherz regime, when it was not quite so accepted. They were a bit of a thorn in the ass of the party, from what I have heard
+-Line 619- -Scene C- Cadet Antony: "Oh.. ok, I'm sorry, I didn't mean to assume, just, biologically not something that happens without assistence.  I get it, my mother is a doctor, done things like that for people.
+-Line 620- -Scene A- Captain Marcus Blaine: "Maybe because you were in the company of someone who has been kicked out of Starfleet?
+-Line 621- -Scene C- Cadet Vrajen Kodor: *Vraj stared into his drink and pondered a bit before he drank
+-Line 622- -Scene A- Ensign Maeve Blaine: "Rather simple actually when making girl.
+-Line 623- -Scene C- Ensign Maeve Blaine: "Rather simple actually when making girl.
+-Line 624- -Scene C- Cadet Antony: *nods
+-Line 625- -Scene C- Hedwik: "Oh, is that so? Is she a starfleet doctor or a civilian one?
+-Line 626- -Scene C- Cadet Antony: "Um, she's been both.
+-Line 627- -Scene C- Ensign Maeve Blaine: "One X from one one X from the other a little chromosomal matching to counter interspecies stuff and boom one Spoted Lynx
+-Line 628- -Scene A- Captain Marcus Blaine: [Allaya]  "Adrian Zorin's affiliation is none of my concern, Captain Blaine.
+-Line 629- -Scene C- Hedwik: "Retired Starfleet? Which ship?
+-Line 630- -Scene C- Hedwik: *She chuckled.* "Spotted Lynx, I like that.
+-Line 631- -Scene C- Cadet Antony: *Tavi is obviously uncomfortable by that question* "She uh, was teaching medicine at the Starfleet Medical Accademy for most of my life.
+-Line 632- -Scene C- Ensign Maeve Blaine: "If they wanted you to have a brother that would have been a trick.
+-Line 633- -Scene A- Captain Marcus Blaine: "Of course it's not."  *He paused a moment.*  "We'll keep an eye out for her, then.  Are you ready to begin?
+-Line 634- -Scene C- Cadet Antony: *laughed at Tolena* "yeah, gene manipulation
+-Line 635- -Scene C- Hedwik: *She tilted her head at Tavi, but did not push, before looking to Maeve.* "I do have a brother. Diter. But yes, he came a few years after me, so I imagine it took some work.
+-Line 636- -Scene C- Ensign Maeve Blaine: "Likely a third donor.
+-Line 637- -Scene C- Cadet Antony: "that's the easy way
+-Line 638- -Scene C- Hedwik: "I have not asked the specifics. But in all honesty, I would nto understand them. Science is easily my worst subject.
+-Line 639- -Scene A- Captain Marcus Blaine: [Allaya]  "Of course, Captain Blaine.
+-Line 640- -Scene C- Ensign Maeve Blaine: "Genetics is a passion.
+-Line 641- -Scene C- Cadet Antony: "So then Vrajen, you are trill too right?  all trill or blended like our friend here?
+-Line 642- -Scene C- Hedwik: "I do love computer science and wish I was better at it.
+-Line 643- -Scene C- Hedwik: "He has the look of a full-blood.
+-Line 644- -Scene C- Cadet Vrajen Kodor: Both my parents are trill, yes
+-Line 645- -Setting- Narrator: =/\= "All hands, stand by for the next jump.  And good luck.
+-Line 646- -Scene C- Cadet Antony: "I knew a trill once, well, my parent knew her I guess, I was pretty little." *last sip of stomach calming soda
+-Line 647- -Scene C- Ensign Maeve Blaine: *maeve breathed in
+-Line 648- -Scene C- Hedwik: *She smirked and set her beer down.* "Now this will be something." *She grabbed onto the table, just in case.
+-Line 649- -Scene C- Cadet Antony: *locking the drink down to the table again.
+-Line 650- -Scene C- Ensign Maeve Blaine: "Relay activation soon...
+-Line 651- -Scene C- Ensign Maeve Blaine: *she chuckled
+-Line 652- -Scene C- Cadet Antony: "What does that mean?
+-Line 653- -Scene C- Ensign Maeve Blaine: "Old holonovel.
+-Line 654- -Scene C- Ensign Maeve Blaine: "I'll show it to you i found it in moms things.
+-Line 655- -Setting- Narrator: ** An external shot showed the Stardancer leaping through space once again... as the credits begin to play and the episode became a proper social.*
+-Line 656- -Scene C- Hedwik: *She shut her eyes again, letting the discomfort wash over her body, her grip tightening some until it was over.
+-Line 657- -Scene C- Cadet Antony: *Watching out the viewport, Tavi sits with her left hand casually on the table, the right gripping her chair trying not to look perturbed at all.
+-Line 658- -Scene A- Ensign Maeve Blaine: "That is disorienting.
+-Line 659- -Scene C- Ensign Maeve Blaine: "That is disorienting.
+-Line 660- -Scene C- Hedwik: *Opened her eyes when the discomfort passed.* "You wish to go into tactical?" *She asked Tavi.* "You prefer bigger targets than I.
+-Line 661- -Scene C- Cadet Vrajen Kodor: *he shivered
+-Line 662- -Scene C- Cadet Antony: "Oh, you think?  I ... I want to have my own command one day.  I was brought up with tactical thinking and physical challenges.  It made sense to ask for tactical as my preference
+-Line 663- -Scene C- Hedwik: "I am surprised you were not at Rome with me. Most the people with our inclinations end up there.
+-Line 664- -Scene C- Cadet Antony: *Sipping the soda again, desperate to not appear weak or with an upset stomach.
+-Line 665- -Scene C- Ensign Maeve Blaine: Well she grew up there
+-Line 666- -Scene C- Ensign Maeve Blaine: So change of scenery si good
+-Line 667- -Scene C- Cadet Antony: "oh, well.. not just there.  Philly too... and on board the ships between.
+-Line 668- -Scene C- Ensign Maeve Blaine: Yeah but a lot of time was on Roma
+-Line 669- -Scene C- Hedwik: "Ah. I suppose a change in scenery is good.
+-Line 670- -Scene C- Ensign Maeve Blaine: "I'd probably not be a geneticist if it wasn't for Tavi's grandmother and Ilythia
+-Line 671- -Scene C- Hedwik: "Tavi's grandmother? Is she a doctor like her mother?
+-Line 672- [category:stardancer Logs: ]

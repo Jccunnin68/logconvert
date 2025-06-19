@@ -42,7 +42,7 @@ def build_executable():
         'pyinstaller',
         '--onefile',  # Create a single executable file
         '--name=logconvert-gui',  # Name the executable
-        '--windowed',  # No console window for GUI
+        '--console',  # Keep console window for debugging
         '--add-data=character_maps.py;.',  # Include character_maps.py
         'gui_converter.py'  # GUI script
     ]

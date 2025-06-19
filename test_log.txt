@@ -1,0 +1,5 @@
+[12:30] [DOIC1] T'Pol: This is a test dialogue from the bridge.
+[12:31] [DOIC1] Archer@Captain: Acknowledged, T'Pol. 
+[12:32] [DOIC1] *The ship rocks from weapons fire*
+[12:33] [DOIC1] Marcus: Captain, we're taking heavy damage!
+[12:34] [DOIC1] [DOIC End] 

@@ -22,11 +22,15 @@ class LogConverterGUI:
         # Configure logging to capture in GUI
         self.log_messages = []
         
-        # Variables
+        # Variables  
         self.processing = False
+        
+        print("LogConverterGUI: Initializing...")  # Console debug
         
         # Create the main interface
         self.create_widgets()
+        
+        print("LogConverterGUI: Widgets created")  # Console debug
         
     def create_widgets(self):
         """Create the GUI widgets"""
@@ -74,10 +78,22 @@ class LogConverterGUI:
         url_frame.grid(row=2, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 10))
         url_frame.columnconfigure(1, weight=1)
         
-        ttk.Label(url_frame, text="URL:").grid(row=0, column=0, sticky=tk.W, padx=(0, 5))
+        ttk.Label(url_frame, text="Wiki Page URL:").grid(row=0, column=0, sticky=tk.W, padx=(0, 5))
         self.url_var = tk.StringVar()
         self.url_entry = ttk.Entry(url_frame, textvariable=self.url_var, width=50)
         self.url_entry.grid(row=0, column=1, sticky=(tk.W, tk.E), padx=(0, 5))
+        
+        # Wiki API URL configuration
+        ttk.Label(url_frame, text="Wiki API URL:").grid(row=1, column=0, sticky=tk.W, padx=(0, 5), pady=(5, 0))
+        self.api_url_var = tk.StringVar(value=WIKI_API_URL)
+        self.api_url_entry = ttk.Entry(url_frame, textvariable=self.api_url_var, width=50)
+        self.api_url_entry.grid(row=1, column=1, sticky=(tk.W, tk.E), padx=(0, 5), pady=(5, 0))
+        
+        config_btn = ttk.Button(url_frame, text="Set API", command=self.configure_api)
+        config_btn.grid(row=1, column=2, padx=(5, 0), pady=(5, 0))
+        
+        help_btn = ttk.Button(url_frame, text="Help", command=self.show_url_help)
+        help_btn.grid(row=0, column=2, padx=(5, 0))
         
         # Output file section
         output_frame = ttk.LabelFrame(main_frame, text="Output", padding="10")
@@ -113,6 +129,12 @@ class LogConverterGUI:
         
         # Configure drag and drop for the entire drop frame
         self.setup_drag_drop()
+        
+        # Add initial status message
+        self.log_status("GUI initialized successfully!")
+        self.log_status("Ready to process log files...")
+        self.log_status("To use URL input, configure the Wiki API URL first.")
+        print("GUI ready!")  # Console debug
         
     def setup_drag_drop(self):
         """Set up drag and drop functionality"""
@@ -163,6 +185,71 @@ class LogConverterGUI:
             self.file_var.set(filename)
             self.log_status(f"File selected: {os.path.basename(filename)}")
     
+    def configure_api(self):
+        """Configure the Wiki API URL"""
+        api_url = self.api_url_var.get().strip()
+        if not api_url:
+            messagebox.showerror("Error", "Please enter a Wiki API URL")
+            return
+            
+        if not api_url.endswith('/api.php'):
+            if messagebox.askyesno("Confirm", 
+                                 f"The URL doesn't end with '/api.php'.\n\nURL: {api_url}\n\nDo you want to use it anyway?"):
+                pass
+            else:
+                return
+        
+        # Update the global variable
+        global WIKI_API_URL
+        WIKI_API_URL = api_url
+        
+        self.log_status(f"Wiki API URL configured: {api_url}")
+        messagebox.showinfo("Success", f"Wiki API URL set to:\n{api_url}")
+    
+    def test_url_connection(self):
+        """Test if the wiki URL is accessible"""
+        api_url = self.api_url_var.get().strip()
+        if not api_url:
+            messagebox.showerror("Error", "Please configure the Wiki API URL first")
+            return
+            
+        try:
+            self.log_status("Testing API connection...")
+            import requests
+            response = requests.get(api_url, timeout=10)
+            if response.status_code == 200:
+                self.log_status("✓ API connection successful")
+                messagebox.showinfo("Success", "Wiki API is accessible!")
+            else:
+                self.log_status(f"✗ API returned status code: {response.status_code}")
+                messagebox.showerror("Error", f"API returned error: {response.status_code}")
+        except Exception as e:
+            self.log_status(f"✗ API connection failed: {e}")
+            messagebox.showerror("Error", f"Could not connect to API:\n{e}")
+    
+    def show_url_help(self):
+        """Show help for URL input"""
+        help_text = """URL Input Help:
+
+1. Wiki Page URL: Enter the full URL of the wiki page you want to process
+   Example: https://your-wiki.com/wiki/Mission_Log_Name
+
+2. Wiki API URL: This is the API endpoint for your MediaWiki installation
+   Example: https://your-wiki.com/api.php
+   
+   - Click "Set API" to configure this URL
+   - This only needs to be set once per session
+   - The URL should end with '/api.php'
+
+3. How it works:
+   - The tool extracts the page name from the wiki page URL
+   - It uses the API URL to fetch the raw wikitext
+   - The wikitext is then processed the same as file input
+
+Note: You need both URLs configured to use this feature."""
+        
+        messagebox.showinfo("URL Input Help", help_text)
+    
     def log_status(self, message):
         """Add a message to the status area"""
         self.status_text.insert(tk.END, f"{message}\n")
@@ -175,45 +262,173 @@ class LogConverterGUI:
     
     def process_log(self):
         """Process the log file or URL"""
-        if self.processing:
-            return
+        try:
+            self.log_status("=== PROCESS BUTTON CLICKED ===")
+            self.root.update()  # Force GUI update
             
-        # Validate inputs
-        file_path = self.file_var.get().strip()
-        url = self.url_var.get().strip()
-        output_file = self.output_var.get().strip()
-        
-        if not file_path and not url:
-            messagebox.showerror("Error", "Please select a file or enter a URL")
-            return
+            if self.processing:
+                self.log_status("Already processing, ignoring...")
+                return
+                
+            # Validate inputs
+            file_path = self.file_var.get().strip()
+            url = self.url_var.get().strip()
+            output_file = self.output_var.get().strip()
             
-        if file_path and url:
-            messagebox.showerror("Error", "Please select either a file OR enter a URL, not both")
-            return
+            self.log_status(f"File path: '{file_path}'")
+            self.log_status(f"URL: '{url}'")
+            self.log_status(f"Output file: '{output_file}'")
+            self.root.update()  # Force GUI update
             
-        if not output_file:
-            messagebox.showerror("Error", "Please specify an output filename")
-            return
-        
-        # Check URL configuration if using URL
-        if url and 'wiki.yourdomain.com' in WIKI_API_URL:
-            messagebox.showerror("Configuration Error", 
-                               "Please configure the WIKI_API_URL in log_converter.py before using URL input")
-            return
-        
-        # Start processing in a separate thread
-        self.processing = True
-        self.process_btn.config(state='disabled')
-        self.progress.start()
-        self.clear_status()
-        
-        thread = threading.Thread(target=self._process_worker, args=(file_path, url, output_file))
-        thread.daemon = True
-        thread.start()
+            if not file_path and not url:
+                self.log_status("ERROR: No file or URL provided")
+                messagebox.showerror("Error", "Please select a file or enter a URL")
+                return
+                
+            if file_path and url:
+                self.log_status("ERROR: Both file and URL provided")
+                messagebox.showerror("Error", "Please select either a file OR enter a URL, not both")
+                return
+                
+            if not output_file:
+                self.log_status("ERROR: No output filename")
+                messagebox.showerror("Error", "Please specify an output filename")
+                return
+            
+            # Update global API URL if configured in GUI
+            if url:
+                global WIKI_API_URL
+                gui_api_url = self.api_url_var.get().strip()
+                if gui_api_url and gui_api_url != WIKI_API_URL:
+                    WIKI_API_URL = gui_api_url
+                    self.log_status(f"Using API URL: {WIKI_API_URL}")
+                
+                # Check URL configuration
+                if 'wiki.yourdomain.com' in WIKI_API_URL:
+                    self.log_status("ERROR: Wiki API URL not configured")
+                    messagebox.showerror("Configuration Error", 
+                                       "Please configure the Wiki API URL using the 'Set API' button before using URL input")
+                    return
+            
+            # Process directly in main thread for now (no threading to avoid issues)
+            self.log_status("=== STARTING PROCESSING ===")
+            self.processing = True
+            self.process_btn.config(state='disabled')
+            self.progress.start()
+            self.root.update()  # Force GUI update
+            
+            # Process directly
+            self._process_directly(file_path, url, output_file)
+            
+        except Exception as e:
+            self.log_status(f"CRITICAL ERROR in process_log: {e}")
+            import traceback
+            self.log_status(f"Full traceback: {traceback.format_exc()}")
+            messagebox.showerror("Error", f"An error occurred: {e}")
+            self._processing_complete()
+    
+    def _process_directly(self, file_path, url, output_file):
+        """Process directly in main thread for debugging"""
+        try:
+            self.log_status("Processing started...")
+            self.root.update()
+            
+            title = ""
+            wikitext = ""
+            
+            if file_path:
+                self.log_status(f"Reading file: {file_path}")
+                self.root.update()
+                
+                # Check if file exists first
+                if not os.path.exists(file_path):
+                    self.log_status(f"File does not exist: {file_path}")
+                    return
+                    
+                result = process_file(file_path)
+                if result:
+                    title, wikitext = result
+                    self.log_status("File read successfully")
+                    self.log_status(f"Title: {title}")
+                    self.log_status(f"Content length: {len(wikitext)} characters")
+                    self.root.update()
+                else:
+                    self.log_status("Failed to read file")
+                    return
+                    
+            elif url:
+                self.log_status(f"Fetching from URL: {url}")
+                self.root.update()
+                result = get_wikitext_from_url(url)
+                if result:
+                    title, wikitext = result
+                    self.log_status("URL content fetched successfully")
+                    self.root.update()
+                else:
+                    self.log_status("Failed to fetch URL content")
+                    return
+            
+            if not wikitext:
+                self.log_status("No content to process")
+                return
+            
+            self.log_status("Processing content...")
+            self.root.update()
+            
+            processor = ContentProcessor()
+            processed_content = processor.process_log_content(title, wikitext)
+            
+            self.log_status("Content processed successfully!")
+            self.log_status(f"Processed content length: {len(processed_content)} characters")
+            self.root.update()
+            
+            # Save output
+            try:
+                script_dir = os.path.dirname(os.path.realpath(__file__))
+                output_path = os.path.join(script_dir, output_file)
+                
+                self.log_status(f"Saving to: {output_path}")
+                self.root.update()
+                
+                with open(output_path, 'w', encoding='utf-8') as f:
+                    f.write(processed_content)
+                
+                self.log_status(f"=== SUCCESS! ===")
+                self.log_status(f"File saved to: {output_path}")
+                self.log_status(f"Processed {len(wikitext.splitlines())} lines")
+                
+                # Show success message
+                messagebox.showinfo("Success", f"Processing complete!\n\nFile saved to:\n{output_path}")
+                
+                # Offer to open the file
+                if messagebox.askyesno("Open File", "Would you like to open the processed file?"):
+                    try:
+                        if sys.platform.startswith('win'):
+                            os.startfile(output_path)
+                        elif sys.platform.startswith('darwin'):
+                            os.system(f'open "{output_path}"')
+                        else:
+                            os.system(f'xdg-open "{output_path}"')
+                    except Exception as e:
+                        messagebox.showerror("Error", f"Could not open file: {e}")
+                
+            except Exception as e:
+                self.log_status(f"Error writing output file: {e}")
+                messagebox.showerror("Error", f"Could not save file: {e}")
+                
+        except Exception as e:
+            self.log_status(f"Processing error: {e}")
+            import traceback
+            self.log_status(f"Full traceback: {traceback.format_exc()}")
+            messagebox.showerror("Error", f"Processing failed: {e}")
+        finally:
+            # Re-enable UI
+            self._processing_complete()
     
     def _process_worker(self, file_path, url, output_file):
         """Worker thread for processing"""
         try:
+            self.log_status("Worker thread started!")
             self.log_status("Starting processing...")
             
             title = ""
@@ -221,10 +436,17 @@ class LogConverterGUI:
             
             if file_path:
                 self.log_status(f"Reading file: {file_path}")
+                # Check if file exists first
+                if not os.path.exists(file_path):
+                    self.log_status(f"File does not exist: {file_path}")
+                    return
+                    
                 result = process_file(file_path)
                 if result:
                     title, wikitext = result
                     self.log_status("File read successfully")
+                    self.log_status(f"Title: {title}")
+                    self.log_status(f"Content length: {len(wikitext)} characters")
                 else:
                     self.log_status("Failed to read file")
                     return
@@ -265,6 +487,8 @@ class LogConverterGUI:
                 
         except Exception as e:
             self.log_status(f"Processing error: {e}")
+            import traceback
+            self.log_status(f"Full traceback: {traceback.format_exc()}")
         finally:
             # Re-enable UI
             self.root.after(0, self._processing_complete)

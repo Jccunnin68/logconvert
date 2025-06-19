@@ -18,9 +18,9 @@ except ImportError:
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # MediaWiki API endpoint for the wiki you are targeting.
-# This needs to be changed to the base URL of the wiki's api.php file.
+# Default is set to 22nd Mobile Fandom wiki, but can be changed for other wikis.
 # For example: 'https://stardancer.org/api.php'
-WIKI_API_URL = 'https://wiki.yourdomain.com/api.php' # <-- IMPORTANT: CONFIGURE THIS
+WIKI_API_URL = 'https://22ndmobile.fandom.com/api.php'
 
 class ContentProcessor:
     """Handles content processing, classification, and formatting"""
@@ -171,12 +171,28 @@ class ContentProcessor:
             if final_speaker:
                 last_processed_speaker = final_speaker
 
-        return f"**{title}**\\n\\n" + "\\n".join(cleaned_lines)
+        return f"**{title}**\n\n" + "\n".join(cleaned_lines)
 
 def get_wikitext_from_url(page_url: str) -> Optional[Tuple[str, str]]:
     """Fetches the raw wikitext of a page from a MediaWiki API."""
     try:
-        page_title = page_url.split('/')[-1]
+        # Extract page title from URL
+        # For URLs like https://site.com/wiki/Page_Name, extract Page_Name
+        # For URLs like https://site.com/wiki/2024/09/27_Page, extract 2024/09/27_Page
+        if '/wiki/' in page_url:
+            page_title = page_url.split('/wiki/')[-1]
+        else:
+            page_title = page_url.split('/')[-1]
+        
+        # Detect if this is a Fandom wiki and adjust API URL
+        api_url = WIKI_API_URL
+        if 'fandom.com' in page_url and 'wiki.yourdomain.com' in WIKI_API_URL:
+            # Auto-detect Fandom API URL from the page URL
+            # Convert https://sitename.fandom.com/wiki/PageName to https://sitename.fandom.com/api.php
+            base_url = '/'.join(page_url.split('/')[:3])  # Get https://sitename.fandom.com
+            api_url = f"{base_url}/api.php"
+            logging.info(f"Auto-detected Fandom API URL: {api_url}")
+        
         params = {
             "action": "query",
             "format": "json",
@@ -185,20 +201,53 @@ def get_wikitext_from_url(page_url: str) -> Optional[Tuple[str, str]]:
             "rvprop": "content",
             "formatversion": 2
         }
-        response = requests.get(WIKI_API_URL, params=params)
+        
+        logging.info(f"Fetching from API: {api_url}")
+        logging.info(f"Page title: {page_title}")
+        
+        response = requests.get(api_url, params=params, timeout=30)
         response.raise_for_status()
-        data = response.json()
-        page = data['query']['pages'][0]
+        
+        # Debug: log the response content
+        logging.info(f"Response status: {response.status_code}")
+        logging.info(f"Response content type: {response.headers.get('content-type', 'unknown')}")
+        
+        try:
+            data = response.json()
+        except ValueError as e:
+            logging.error(f"Failed to parse JSON response. Response text: {response.text[:500]}...")
+            return None
+            
+        if 'query' not in data:
+            logging.error(f"No 'query' in API response. Response: {data}")
+            return None
+            
+        pages = data['query']['pages']
+        if not pages:
+            logging.error("No pages found in API response")
+            return None
+            
+        page = pages[0]
         if 'missing' in page:
             logging.error(f"Page '{page_title}' not found on the wiki.")
             return None
+            
+        if 'revisions' not in page or not page['revisions']:
+            logging.error(f"No revisions found for page '{page_title}'")
+            return None
+            
         wikitext = page['revisions'][0]['content']
+        logging.info(f"Successfully fetched wikitext: {len(wikitext)} characters")
         return page_title, wikitext
+        
     except requests.exceptions.RequestException as e:
         logging.error(f"Error fetching URL: {e}")
         return None
-    except (KeyError, IndexError):
-        logging.error("Error parsing wiki API response. Check API URL and page title.")
+    except (KeyError, IndexError) as e:
+        logging.error(f"Error parsing wiki API response: {e}")
+        return None
+    except Exception as e:
+        logging.error(f"Unexpected error fetching URL: {e}")
         return None
 
 def process_file(file_path: str) -> Optional[Tuple[str, str]]:

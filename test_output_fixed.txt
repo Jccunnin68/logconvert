@@ -1,0 +1,7 @@
+**test_log**
+
+-Line 1- -Scene A- T'Pol: This is a test dialogue from the bridge.
+-Line 2- -Scene A- Archer: Acknowledged, T'Pol.
+-Line 3- -Scene A- *The ship rocks from weapons fire*
+-Line 4- -Scene A- Marcus: Captain, we're taking heavy damage!
+-Line 5- -Scene A- Doic End: 
